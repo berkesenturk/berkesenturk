@@ -26,9 +26,8 @@ alt="berkesenturk" height="30" width="30" /></a>
 <h3 align="left">Cloud</h3>
 <hr>
 <p align="left"> 
-
-<a href="https://aws.amazon.com/tr/lambda/"> <img src="./lambda.png" alt="aws lambda" height="30"/> </a> 
-<a href="https://aws.amazon.com"> <img src="./s3.png" alt="aws s3" height="30"/> </a> 
+<a href="https://aws.amazon.com/tr/lambda/"> <img src="https://brandslogos.com/wp-content/uploads/images/aws-lambda-logo.png" alt="aws lambda" height="30"/> </a> 
+<a href="https://aws.amazon.com"> <img src="https://miro.medium.com/max/400/1*CIolkR8u5UuZp5aJRPVzBg.png" alt="aws s3" height="30"/> </a> 
 <a href="https://aws.amazon.com"> <img src="./ecr.png" alt="aws ecr" height="30"/> </a> 
 </p>
 
