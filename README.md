@@ -70,4 +70,4 @@ alt="berkesenturk" height="30" width="30" /></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=berkesenturk&hide=Jupyter%20Notebook)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Berke's github stats](https://github-readme-stats.vercel.app/api?username=berkesenturk&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkesenturk&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkesenturk&layout=compact&hide_border=true&hide=Jupyter%20Notebook)
