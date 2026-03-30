@@ -1,4 +1,4 @@
-Hi 👋 My name is Berke Sentürk
+Hi there 👋 
 ==============================
 
 Geospatial Data Scientist
