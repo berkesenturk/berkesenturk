@@ -1,10 +1,7 @@
 Hi there 👋 
 ==============================
 
-Geospatial Data Scientist
--------------------------
-
-I am a Geospatial Data Scientist previously Software Developer based in Germany. Currently I'm writing my Master's Thesis at Fraunhofer IEE over renewable energy and AI.
+I am based in Germany. I am recently graduated from my Master's and looking for a job.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [berkesenturk11@gmail.com](mailto:berkesenturk11@gmail.com)
