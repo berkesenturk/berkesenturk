@@ -1,8 +1,6 @@
 Hi there 👋 
 ==============================
 
-I am based in Germany. I am recently graduated from my Master's and looking for a job.
-
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [berkesenturk11@gmail.com](mailto:berkesenturk11@gmail.com)
 
